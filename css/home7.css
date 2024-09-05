@@ -215,7 +215,7 @@ body {
         animation: spinY 5s linear infinite;
         position: absolute;
         top: 20px; /* Adjust this value if necessary */
-        left: 32%;
+        left: 30%;
         transform: translate(-50%, 0);
     }
 }

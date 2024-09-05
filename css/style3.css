@@ -490,14 +490,9 @@ input.open-card:checked ~ .card-footer {
         width: 100%;
         height: auto; /* Автоматическая высота для адаптивности */
         padding: 20px; /* Увеличенный отступ для лучшей читаемости */
-    }а
-
-    label.card-toggle-label {
-        width: 40px;
-        height: 40px;
-        top: 10px;
-        right: 10px;
     }
+
+
 
 
 }

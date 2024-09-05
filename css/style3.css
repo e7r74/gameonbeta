@@ -499,24 +499,7 @@ input.open-card:checked ~ .card-footer {
         right: 10px;
     }
 
-    label.card-toggle-label::before,
-    label.card-toggle-label::after {
-        width: 20px;
-        height: 4px;
-    }
 
-    input[type="checkbox"]:checked ~ label.card-toggle-label {
-        left: 10px;
-    }
-
-    .card-content.left-content, .card-content.right-content {
-        width: 100%;
-        margin: 0;
-    }
-
-    input.open-card:checked ~ label.card-toggle-label {
-        left: calc(100% - 50px);
-    }
 }
 
 /* Стили для устройств с разрешением до 480px */
@@ -550,15 +533,4 @@ input.open-card:checked ~ .card-footer {
         padding: 5px 10px; /* Уменьшение отступов кнопок внизу карточек */
     }
 }
-/* .whatsapp-button {
-	position: fixed;
-	bottom: 4rem;
-	right: 4rem;
-	width: 3.5rem;
-	height: 3.5rem;
-	background-color: #25D366;
-	color: white;
-	border-radius: 50%;
-	display: flex;
-	justify-content: center;
-} */
+

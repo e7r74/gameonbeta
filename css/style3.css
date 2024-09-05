@@ -477,7 +477,7 @@ input.open-card:checked ~ .card-footer {
 
     .card {
         width: 100%;
-        height: 700px; /* Высота для мобильных устройств */
+        height: 650px; /* Высота для мобильных устройств */
         margin-bottom: 20px;
     }
 
